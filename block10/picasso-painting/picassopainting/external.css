@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    justify-content:space-between;
+    margin: 20px;
+}
+
+.column1{
+    background-color: #03989E;
+    flex-direction: column;
+    align-content: center;
+    height: 500px;
+    width: 820px;   
+}
+
+.column2{
+    background-color: #03989E;
+    flex-direction: column;
+    height: 500px;
+    width: 820px;
+}
+
+.column3{
+    background-color: #03989E;
+    flex-direction: column;
+    height: 500px;
+    width: 820px;
+}
+
+.column4{
+    background-color: #03989E;
+    flex-direction: row;
+    align-content: end;
+    margin: 20px;
+    height: 720px;  
+}

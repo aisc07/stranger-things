@@ -1,0 +1,40 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color:azure;
+}
+
+h1 {
+    color:darkcyan;
+    text-align: center;
+}
+
+h2 {
+    color:black;    
+}
+
+h3 {
+    color: black;
+}
+
+section {
+    margin: 1.5em;
+    border: 1.5em;
+    padding: 1.5em;
+}
+
+div {
+    margin: 1.5em 1.5em 1.5em 1.5em;
+    border: 1.5em 1.5em 1.5em 1.5em;
+    padding: 1.5em 1.5em 1.5em 1.5em;
+}
+
+img {
+    height: 20em;
+    width: 25em;
+}
+
+.yellow {
+    display: flex;
+    align-items:center;
+    justify-content:left;
+}
